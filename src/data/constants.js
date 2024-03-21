@@ -88,7 +88,7 @@ export const skills = [
       },
     ],
   },
-  
+
   {
     title: "Others",
     skills: [
@@ -129,50 +129,11 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "DevOps & Fullstack Engineering Intern",
-    company: "Flipr Inovations Pvt. Ltd.",
-    date: "Aug 2023 - July 2023",
-    desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
-    skills: [
-      "Docker",
-      "Terraform",
-      "AWS",
-      "EC2",
-      "Portainer",
-      "Nginx",
-      "JavaScript",
-      "TypeScript",
-      "Node Js",
-      " Next Js",
-    ],
-    doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
-  },
-  {
-    id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
-    role: "Frontend Engineer Intern",
-    company: "Neurobit",
-    date: "June 2023 - Present",
-    desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
-    skills: [
-      "ReactJS",
-      "Redux",
-      "NodeJs",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-    ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
-  },
-  {
-    id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Fullstack Externship",
-    company: "Flipr",
-    date: "June 2023 - July 2023",
-    desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
+    img: "https://ahmednoorzakaria.github.io/images/47655884-ce94-49c8-9908-469587a42cb3.jpeg",
+    company:
+      "Software Engineering Immersive - Moringa School Graduated [Nov, 2023]",
+    desc: "Embarked on a transformative journey at Moringa School, where I completed a rigorous six-month Full-Stack Software Engineering course. This immersive program was a blend of in-person and online learning, structured to provide a comprehensive understanding of both front-end and back-end technologies. Key highlights of my experience include:Mastery of programming languages such as HTML, CSS, JavaScript, React, SQL, Python, and frameworks like Flask and Redux.Engaging in hands-on learning with a focus on real-world applications, including building and styling interactive websites and web applications.Receiving personalized technical mentorship and career coaching, which guided me through complex technical concepts and career planning. Collaborating with a diverse community of peers, fostering a supportive environment that enhanced my learning experience.Completing the program with a capstone project that showcased my ability to design, develop, and deploy a full-stack application.This intensive course not only equipped me with the technical skills necessary for a career in software development but also instilled a mindset of continuous learning and adaptation to tackle the ever-evolving challenges of the tech industry",
+    doc: "https://ahmednoorzakaria.github.io/images/3feb2e94-4ee2-4099-a69c-50012f7dcd71.jpeg",
     skills: [
       "ReactJS",
       "Redux",
@@ -187,47 +148,34 @@ export const experiences = [
     ],
   },
   {
+    id: 1,
+    img: "https://ahmednoorzakaria.github.io/images/download.jpeg",
+    role: "JavaScript Essentials Course - openEDG",
+    company: "OPENEDG",
+    date: "june 2023 - sep 2023",
+    desc: "Engaged in an intensive, interactive JavaScript course offered by openEDG, designed to equip learners with both theoretical and practical programming skills. The curriculum included Comprehensive coverage of JavaScript syntax and semantics.Best programming practices and essential coding concepts.Hands-on experience with variables, data types, operators, and control flow. Development of functions, error handling, and debugging techniques.",
+    skills: [
+      "Javascript",
+      "Algorithmic solutions",
+      "Problem solving",
+      "Debugging",
+    ],
+    doc: "https://ahmednoorzakaria.github.io/images/1360969b-66ed-46ab-9220-3cad7cb7d936.jpeg",
+  },
+  {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
-    role: "Open Source Contributor ",
-    company: "GirlScript Summer of Code",
-    date: "May 2023 - Present",
-    desc: "Contributing to different open-source projects and learn from industry experts",
-    doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
-  },
-  {
-    id: 3,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
-    role: "Android Developer",
-    company: "DSC KIIT",
-    date: "Nov2021 - Present",
-    desc: "As an Android developer at the Google Developers Student Club (GDCS), I have had the opportunity to work on exciting projects and collaborate with talented developers who share my passion for technology. Through my involvement with GDCS, I have also had the opportunity to host and participate in numerous events, including hackathons, study jams, and workshops.",
+    img: "https://ahmednoorzakaria.github.io/images/R.jpeg",
+    role: "Cisco IT Essential ",
+    company: "Cisco",
+    date: "Feb 2023 - jun 2023",
+    desc: "As part of my continuous learning and professional development, I completed the IT Essentials course offered by Cisco. This comprehensive program equipped me with foundational knowledge in IT, covering a wide range of topics from computer hardware and software to networking and security. The hands-on experience and problem-solving skills gained through this course have been invaluable, enhancing my ability to support and troubleshoot IT systems effectively. This certification is a proud addition to my portfolio, reflecting my commitment to staying abreast of the latest technological advancements.",
     skills: [
-      "Leadership",
-      "Mobile Application Development",
-      "Kotlin",
-      "XML",
-      "Figma",
+      "Networking",
+      "Computer systems",
+      "Linux os",
+      "Computer network trouble shooting ",
     ],
-  },
-  {
-    id: 4,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
-    role: "Android Developer Intern",
-    company: "Rudraksha Welffare Foundation",
-    date: "June 2021 - Oct 2021",
-    desc: "As an Android Developer Intern at Rudraksha Welfare Foundation from June 2021 to October 2021, I gained valuable hands-on experience in application development. During my tenure, I contributed to the development of the application's back-end cloud functions using Firebase and implemented a front-end with the MVVM structure, which was designed using Figma. I also added a one-to-one video call feature, conceptualized new features, and optimized app performance. This internship helped me enhance my skills in Android development and gave me an opportunity to work in a collaborative team environment.",
-    skills: [
-      "Android",
-      "Java",
-      "Kotlin",
-      "XML",
-      "Node Js",
-      "Cloud Firestore",
-      "Firebase",
-      "Figma",
-    ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
+    doc: "https://ahmednoorzakaria.github.io/images/41d1394f-11d4-4baa-a076-ec5a83e5294b.jpeg",
   },
 ];
 
@@ -258,7 +206,8 @@ export const education = [
     grade: "92.3%",
     desc: "I completed my class 8 education at Ansaru Sunnah School, Nairobi",
     degree: "ICSC(X), Primary Education",
-  },{
+  },
+  {
     id: 1,
     img: "data:image/png;base64,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",
     school: " Moringa school , Ngong road",
@@ -276,8 +225,7 @@ export const projects = [
     date: "jan 2023 - jan 2023",
     description:
       "The Banking CLI Application is a command-line tool for managing bank accounts. It provides functionalities for creating new accounts, logging in, depositing and withdrawing money, and checking account balances. The application is built using Python and leverages the Click library for creating the command-line interface and SQLAlchemy for interacting with the database.",
-    image:
-      "https://ahmednoorzakaria.github.io/images/CLI.png",
+    image: "https://ahmednoorzakaria.github.io/images/CLI.png",
     tags: [
       "Vercel",
       "Eslint",
@@ -288,7 +236,8 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/ahmednoorzakaria/CLI-project",
-    webapp: "Clone the project repository to your local machine: git clone https://github.com/ahmednoorzakaria/CLI-project    ",
+    webapp:
+      "Clone the project repository to your local machine: git clone https://github.com/ahmednoorzakaria/CLI-project    ",
   },
   {
     id: 0,
@@ -296,8 +245,7 @@ export const projects = [
     date: "NOV 2023 - Dec 2023",
     description:
       "The Agricultural Super App is a web application designed to help farmers improve their yields by providing access to the latest agricultural practices, technologies, and expert advice. The app allows farmers to connect with professionals in their field and network with other farmers, opening up new markets and knowledge-sharing platforms. The core mission of the app is to make agriculture accessible and sustainable for everyone, empowering farmers to take control of their farming activities and improve their livelihoods, protect the environment, and contribute to global food security",
-    image:
-      "https://ahmednoorzakaria.github.io/images/agriconnect.png",
+    image: "https://ahmednoorzakaria.github.io/images/agriconnect.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
     github: "https://github.com/ahmednoorzakaria/AgricultresuperappFrontend",
@@ -310,9 +258,10 @@ export const projects = [
       },
       {
         name: "Brian maina",
-      },{
-        name:"Kamente justin"
-      }
+      },
+      {
+        name: "Kamente justin",
+      },
     ],
   },
   {
@@ -321,8 +270,7 @@ export const projects = [
     date: "Oct 2023 - Nov 2023",
     description:
       "Welcome to the Movie Flix repository! This project aims to create a comprehensive and user-friendly movie database application that allows users to search for, explore, and discover information about movies. Whether you're a movie enthusiast, a casual viewer, or just looking for something to watch, this application has you covered.",
-    image:
-    "https://ahmednoorzakaria.github.io/images/movieproject.png",
+    image: "https://ahmednoorzakaria.github.io/images/movieproject.png",
     tags: [
       "React Js",
       "MongoDb",
@@ -335,22 +283,20 @@ export const projects = [
     github: "https://github.com/ahmednoorzakaria/MovieProject",
     webapp: "https://wonderful-platypus-e4b5de.netlify.app",
   },
-  
+
   {
     id: 3,
     title: "AI-chatbot",
     date: "jan 2024 -  current",
     description:
       "Welcome to ChatGPT-Clone, your AI-powered virtual assistant for all your conversational needs! Our platform harnesses the latest advancements in natural language processing to provide you with an engaging and intuitive chat experience. Whether you're looking for information, seeking assistance, or just want to have a friendly chat, ChatGPT-Clone is here to help. Join thousands of users who rely on ChatGPT-Clone for intelligent, personalized interactions. Start chatting today and discover the power of AI!",
-    image:
-    "https://ahmednoorzakaria.github.io/images/aicahtbot.png",
+    image: "https://ahmednoorzakaria.github.io/images/aicahtbot.png",
 
     tags: ["TypeScript", "MongoDB", "Vercel", "Restful Api"],
     category: "app",
     github: "https://github.com/ahmednoorzakaria/Ai-chtbot",
     webapp: "https://ai-chtbot-o9fq.vercel.app/",
   },
- 
 ];
 
 export const TimeLineData = [
