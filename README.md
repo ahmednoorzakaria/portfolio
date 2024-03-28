@@ -1,7 +1,7 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-### Weblink: [Live Website](https://rishavchanda.netlify.app)
+### Weblink: [Live Website](https://ahmednoorzakaria.vercel.app/)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -33,7 +33,7 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 ## Installation
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git`
+1. Clone the repository: `git clone git@github.com:ahmednoorzakaria/portfolio.git`
 2. Navigate to the project directory: 
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
