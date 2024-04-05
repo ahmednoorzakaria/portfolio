@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/ahmednoorzakaria",
   resume:
-    "https://drive.google.com/file/d/1_jl7hGBFIEP0wS0yTZWU_FrdlC9WB2x9/view?usp=drive_link",
+    "https://docs.google.com/document/d/1XQpM-n_ooDTdBRSb45nQm5Q_eY_vNb515k_6KwXx6EA/edit?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ahmednoor-zakaria-16a696248/",
   twitter: "https://twitter.com/Ahmednoorzak",
   insta: "",
